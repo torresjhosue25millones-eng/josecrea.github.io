@@ -1,0 +1,19 @@
+<svg width="260" height="72" viewBox="0 0 260 72" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(4,6)">
+    <!-- mark: little hand-painted flower, echoing Jose's own painted pieces -->
+    <g transform="translate(28,30)">
+      <circle cx="0" cy="-15" r="8.5" fill="#E0177A"/>
+      <circle cx="13" cy="-7" r="8.5" fill="#F0C040"/>
+      <circle cx="13" cy="9" r="8.5" fill="#B87DC4"/>
+      <circle cx="0" cy="17" r="8.5" fill="#6BAA2E"/>
+      <circle cx="-13" cy="9" r="8.5" fill="#F0C040"/>
+      <circle cx="-13" cy="-7" r="8.5" fill="#E0177A"/>
+      <circle cx="0" cy="1" r="7" fill="#FFFFFF"/>
+      <circle cx="0" cy="1" r="3.2" fill="#1A1A2E"/>
+    </g>
+    <!-- wordmark -->
+    <text x="62" y="33" font-family="'Cormorant Garamond',Georgia,serif" font-size="30" font-weight="600" fill="#1A1A2E">jose</text>
+    <text x="123" y="33" font-family="'Cormorant Garamond',Georgia,serif" font-size="30" font-weight="700" font-style="italic" fill="#E0177A">crea</text>
+    <text x="62" y="50" font-family="'DM Sans',Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="2.5" fill="#B0B0C0">HECHO A MANO</text>
+  </g>
+</svg>
